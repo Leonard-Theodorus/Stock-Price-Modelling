@@ -1,3 +1,4 @@
+library(ggplot2)
 sahamawal = 5000
 miu = 0.05
 sigma = 0.1
